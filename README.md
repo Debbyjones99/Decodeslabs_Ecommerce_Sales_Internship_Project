@@ -1,12 +1,11 @@
 
 
-#E-Commerce Sales Analysis (Excel & SQL)
+# E-Commerce Sales Analysis (Excel & SQL)
 
 ## Project Overview
 
 This project analyzes an e-commerce sales dataset using **Microsoft Excel** for data cleaning and exploratory data analysis (EDA), and **PostgreSQL** for SQL-based business analysis. The objective was to identify sales trends, customer purchasing behavior, product performance, and revenue drivers.
 
----
 ## Detaset
 * <a href=https://github.com/Debbyjones99/Decodeslabs_Ecommerce_Sales_Internship_Project/blob/main/Dataset%20%26%20Excel%20Analysis/Data%20Analysis%20result%20decodelabs1.xlsx > E-Commerce Sales Analysis</a>
 
@@ -16,7 +15,6 @@ This project analyzes an e-commerce sales dataset using **Microsoft Excel** for 
 * PostgreSQL
 * DBeaver
 
----
 ## Dashboard
 <img width="622" height="372" alt="Excell_dashboard" src="https://github.com/Debbyjones99/Decodeslabs_Ecommerce_Sales_Internship_Project/blob/main/Dashboard%20Screenshot/decodelabs_project_screenshort.png" />
 <p>
@@ -37,7 +35,6 @@ This project analyzes an e-commerce sales dataset using **Microsoft Excel** for 
 * **Cancelled** orders occurred most frequently, with **over 250 cancelled orders**.
 * **Online** was the most commonly used payment method, used in **258 orders**.
 
----
 
 # SQL Analysis
 
@@ -49,7 +46,6 @@ This project analyzes an e-commerce sales dataset using **Microsoft Excel** for 
 * **Instagram** was the highest-performing referral source, generating **₦275,285.45** in revenue.
 * **Cancelled** orders accounted for the highest total revenue (**₦276,296.21**).
 
----
 
 # Business Insights
 
@@ -61,11 +57,17 @@ This project analyzes an e-commerce sales dataset using **Microsoft Excel** for 
 * The fluctuating sales trend suggests inconsistent customer demand, highlighting the need for seasonal planning and targeted marketing campaigns to stabilize revenue.
 * The popularity of the **FreeShip** coupon indicates that free shipping is an effective promotional strategy that encourages customer purchases.
 
----
-
 ### Note on Chair vs. Phone
 
 * **Chair** was the most purchased because customers bought it in **higher quantities**, **not** because it had a higher price.
 * **Phone** had the highest **average selling price**, but it sold fewer units.
 
 This illustrates an important business concept: **high price does not always lead to high sales volume.** A lower-priced, high-demand product can generate more total revenue than a higher-priced product with lower demand.
+
+## Contact
+
+Open to Data Analyst opportunities.
+
+- Email: deborahjonah06@gmail.com
+- LinkedIn: https://www.linkedin.com/in/deborah-jonah-220210327
+
