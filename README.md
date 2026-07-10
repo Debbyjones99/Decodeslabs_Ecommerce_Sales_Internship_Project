@@ -20,7 +20,8 @@ This project analyzes an e-commerce sales dataset using **Microsoft Excel** for 
 <p>
   
 </p>
-# Key Findings (Excel)
+
+## Key Findings (Excel)
 
 * **Total Revenue:** **₦1,264,762**
 * **Chair** was the best-selling product, recording:
